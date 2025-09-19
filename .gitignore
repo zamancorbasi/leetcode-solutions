@@ -1,0 +1,24 @@
+# Visual Studio 
+.vs/ 
+*.suo 
+*.user 
+*.userosscache 
+*.sln 
+*.vcxproj* 
+*.filters 
+*.VC.db 
+*.db 
+*.opendb 
+[Bb]in/ 
+[Oo]bj/ 
+x64/ 
+Debug/ 
+Release/ 
+*.log 
+*.exe 
+*.ilk 
+*.obj 
+*.pdb 
+*.tlog 
+*.ipch 
+*.tmp 
