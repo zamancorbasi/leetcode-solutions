@@ -1,0 +1,26 @@
+# Visual Studio dosyaları
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+*.vcxproj*
+*.VC.db
+*.db
+*.opendb
+
+# Derleme çıktıları
+[Bb]in/
+[Oo]bj/
+x64/
+Debug/
+Release/
+
+# Geçici dosyalar
+*.log
+*.exe
+*.ilk
+*.obj
+*.pdb
+*.tlog
+*.ipch
